@@ -1,0 +1,2 @@
+REQUIREMENTS TO RUN:
+AirSim, px4, and MAVSDK
